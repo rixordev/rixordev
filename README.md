@@ -1,4 +1,4 @@
-﻿# Amir Tahani
+﻿# Rixor
 
 **Senior Full-Stack AI Engineer · Technical Lead · System Designer**
 
